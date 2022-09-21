@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> , eu sou Rafael Bento
+  
+<a href="https://www.linkedin.com/in/rafael-rodrigues-bento-298114236/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="mailto:rafael.rodrigues.bento@outlook.com" target="_blank">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+
 
 <div align="center">
   <a href="https://github.com/rafael-rodrigues-bento">
